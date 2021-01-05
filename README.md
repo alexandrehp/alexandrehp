@@ -8,7 +8,7 @@
 
 .🎓 Bachelor in Computer science.
 
-.🎓 Postgraduate in Web Software Development.
+.🎓 Graduate Course in Web Software Development.
 
 .🏢 Im love technology.
 
