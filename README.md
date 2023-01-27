@@ -14,4 +14,4 @@
 
 .🌱 I’m currently learning more React and Agile methodologies.
 
-.💻 Techs: PHP, JavaScript, React, NodeJS, Oracle, SQL Server and MySql
+.💻 Techs: Java, framework Spring (Boot, Data, Security), PHP, HTML, CSS, JavaScript, NodeJS, Oracle, PL/SQL, SQL Server and MySql
